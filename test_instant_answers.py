@@ -38,6 +38,7 @@ cases = {
 def makeRequest(query, params = dict()):
     with pytest.allure.step("Make a request: q={}".format(query)):
 	params.update(q = query)
+	print HOST, "/q=", params["q"], "/format=", params["format"]
         return requests.get(HOST, params = params)
 
 def checkType(ans_type, expected_type, query):
@@ -82,6 +83,6 @@ def getParams():
     return params_list        
 
 @pytest.mark.parametrize("answer_type, test_input, expected", getParams())
-def tests(answer_type, test_input, expected):
+def tests_instant_answer(answer_type, test_input, expected):
     checker(test_input, expected, answer_type)
     
