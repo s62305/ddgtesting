@@ -12,12 +12,12 @@ params_list = [("!wt car", {'l': 'ru-ru'}, "ru"),
               ]
 
 @pytest.mark.parametrize("query, cookies, expected_region", params_list, ids = params_list)
-def test_filter_by_region(query, cookies, expected_region):
+def test_regional_search(query, cookies, expected_region):
     with pytest.allure.step("Make a request: q={}".format(query)):
         params = DEFAULTS.copy()
         params.update(q = query)
         req = requests.get(HOST, params = params, cookies = cookies)
-        print "url: ", req.url, ", cookies: ", cookies
+        print "{} (using cookies: {})".format(req.url, cookies)
 
         req.raise_for_status()
         
