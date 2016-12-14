@@ -12,6 +12,7 @@ More at https://api.duckduckgo.com/api
 '''
 
 
+@pytest.allure.feature("API - result types")
 @pytest.mark.parametrize(
     "query, expected_type",
     (

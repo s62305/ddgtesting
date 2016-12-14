@@ -6,6 +6,8 @@ In the first case (lowercase blackberry) it returns a disambiguation page;
 in the latter case (MixedCase BlackBerry) it returns info primarily about the device (inferring what you meant from the case).
 '''
 
+@pytest.allure.feature("API - query case sensitivity")
+@pytest.allure.story("case sensitive query")
 @pytest.mark.parametrize(
     "query",
     ("DreamWorks", "BlackBerry", "AC/DC")
@@ -33,6 +35,8 @@ def test_ddg_api_case_sensitive_query(ddg, url_params, logger, query):
         assert data_lower != data_original
 
 
+@pytest.allure.feature("API - query case sensitivity")
+@pytest.allure.story("case insensitive query")
 @pytest.mark.parametrize(
     "query",
     ("Apple", "Copacabana", "Moscow", "DNA")

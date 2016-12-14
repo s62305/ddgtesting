@@ -6,6 +6,7 @@ This test emulates searching wiktionary (!wt ...) with different regional settin
 Such queries lead to corresponding regional segments of `wiktionary.org`.
 '''
 
+@pytest.allure.feature("API - regional search")
 @pytest.mark.parametrize(
     "query, cookies, expected_region",
     (

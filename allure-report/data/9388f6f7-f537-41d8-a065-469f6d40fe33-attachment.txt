@@ -1,0 +1,3 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=AC%2FDC HTTP/1.1" 200 None
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=ac%2Fdc HTTP/1.1" 200 None

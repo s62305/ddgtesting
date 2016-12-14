@@ -1,0 +1,289 @@
+{
+    "Definition": "",
+    "AnswerType": "",
+    "Heading": "AC/DC",
+    "Infobox": {
+        "meta": [
+            {
+                "data_type": "string",
+                "value": "AC/DC",
+                "label": "article_title"
+            },
+            {
+                "data_type": "string",
+                "value": "infobox musical artist",
+                "label": "template_name"
+            },
+            {
+                "data_type": "string",
+                "value": "AC/DC",
+                "label": "above"
+            },
+            {
+                "data_type": "string",
+                "value": "AC/DC, from left to right: Brian Johnson, Malcolm Young, Phil Rudd, Angus Young, Cliff Williams, performing at the Tacoma Dome in Tacoma on 31 August 2009.",
+                "label": "caption"
+            },
+            {
+                "data_type": "string",
+                "value": "musical artist",
+                "label": "formatting_rules"
+            }
+        ],
+        "content": [
+            {
+                "data_type": "string",
+                "sort_order": "3",
+                "wiki_order": 0,
+                "value": "Sydney, New South Wales, Australia",
+                "label": "Origin"
+            },
+            {
+                "data_type": "string",
+                "sort_order": "4",
+                "wiki_order": 1,
+                "value": "Hard rock, blues rock, rock and roll",
+                "label": "Genres"
+            },
+            {
+                "data_type": "string",
+                "sort_order": "5",
+                "wiki_order": 2,
+                "value": "1973\u2013present",
+                "label": "Years active"
+            },
+            {
+                "data_type": "string",
+                "sort_order": "6",
+                "wiki_order": 6,
+                "value": "Angus Young, Chris Slade, Stevie Young, Axl Rose",
+                "label": "Members"
+            },
+            {
+                "data_type": "string",
+                "sort_order": "6",
+                "wiki_order": 7,
+                "value": "Malcolm Young, Bon Scott, Phil Rudd, Cliff Williams, Brian Johnson, Simon Wright, Mark Evans, Dave Evans",
+                "label": "Past members"
+            },
+            {
+                "data_type": "string",
+                "sort_order": "8",
+                "wiki_order": 4,
+                "value": "Geordie, The Easybeats, Fraternity, Dio, The Valentines, Marcus Hook Roll Band, Wolfmother, Guns N' Roses",
+                "label": "Associated acts"
+            },
+            {
+                "data_type": "string",
+                "sort_order": "9",
+                "wiki_order": 3,
+                "value": "Albert, EMI, Columbia, Epic, Atlantic, Atco, Elektra, East West",
+                "label": "Labels"
+            }
+        ]
+    },
+    "AbstractText": "AC/DC are an Australian rock band, formed in 1973 by brothers Malcolm and Angus Young. A hard rock/blues rock band, they have also been considered a heavy metal band, although they have always dubbed their music simply \"rock and roll\".",
+    "AbstractURL": "https://en.wikipedia.org/wiki/AC/DC",
+    "Image": "https://duckduckgo.com/i/9a611945.jpg",
+    "Abstract": "AC/DC are an Australian rock band, formed in 1973 by brothers Malcolm and Angus Young. A hard rock/blues rock band, they have also been considered a heavy metal band, although they have always dubbed their music simply \"rock and roll\".",
+    "Results": [
+        {
+            "Result": "<a href=\"http://acdc.com\"><b>Official site</b></a><a href=\"http://acdc.com\"></a>",
+            "Text": "Official site",
+            "Icon": {
+                "URL": "https://duckduckgo.com/i/acdc.com.ico",
+                "Width": 16,
+                "Height": 16
+            },
+            "FirstURL": "http://acdc.com"
+        }
+    ],
+    "Entity": "musician",
+    "AbstractSource": "Wikipedia",
+    "RelatedTopics": [
+        {
+            "Result": "<a href=\"https://duckduckgo.com/?q=AC%2FDShe\">AC/DShe</a>, an <a href=\"https://duckduckgo.com/?q=all%2Dfemale%20band\">all-female</a> <a href=\"https://duckduckgo.com/?q=tribute%20act\">tribute band</a> who covers Bon Scott-era material.",
+            "Text": "AC/DShe , an all-female tribute band who covers Bon Scott-era material.",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/?q=AC%2FDShe"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/Hell's_Belles_(band)\">Hell's Belles</a>&nbsp;\u2013 another all-female tribute band.",
+            "Text": "Hell's Belles &nbsp;\u2013 another all-female tribute band.",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/Hell's_Belles_(band)"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/Hayseed_Dixie\">Hayseed Dixie</a>, a parody band made famous by their bluegrass-rock renditions of AC/DC material.",
+            "Text": "Hayseed Dixie , a parody band made famous by their bluegrass-rock renditions of AC/DC material.",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/Hayseed_Dixie"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/?q=AC%2FDC\">AC/DC</a>",
+            "Text": "AC/DC",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/?q=AC%2FDC"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/Australian_hard_rock_musical_groups\">Australian hard rock musical groups</a>",
+            "Text": "Australian hard rock musical groups",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/Australian_hard_rock_musical_groups"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/ARIA_Hall_of_Fame_inductees\">ARIA Hall of Fame inductees</a>",
+            "Text": "ARIA Hall of Fame inductees",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/ARIA_Hall_of_Fame_inductees"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/Australian_heavy_metal_musical_groups\">Australian heavy metal musical groups</a>",
+            "Text": "Australian heavy metal musical groups",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/Australian_heavy_metal_musical_groups"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/Musical_groups_from_Sydney\">Musical groups from Sydney</a>",
+            "Text": "Musical groups from Sydney",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/Musical_groups_from_Sydney"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/Atco_Records_artists\">Atco Records artists</a>",
+            "Text": "Atco Records artists",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/Atco_Records_artists"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/Blues_rock_groups\">Blues rock groups</a>",
+            "Text": "Blues rock groups",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/Blues_rock_groups"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/ARIA_Award_winners\">ARIA Award winners</a>",
+            "Text": "ARIA Award winners",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/ARIA_Award_winners"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/c/Atlantic_Records_artists\">Atlantic Records artists</a>",
+            "Text": "Atlantic Records artists",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/c/Atlantic_Records_artists"
+        }
+    ],
+    "DefinitionSource": "",
+    "Redirect": "",
+    "ImageHeight": 200,
+    "ImageWidth": 254,
+    "Type": "A",
+    "meta": {
+        "blockgroup": null,
+        "src_id": 1,
+        "unsafe": 0,
+        "attribution": null,
+        "signal_from": "wikipedia_fathead",
+        "src_domain": "en.wikipedia.org",
+        "repo": "fathead",
+        "name": "Wikipedia",
+        "maintainer": {
+            "github": "duckduckgo"
+        },
+        "dev_date": null,
+        "src_url": null,
+        "status": "live",
+        "designer": null,
+        "is_stackexchange": null,
+        "id": "wikipedia_fathead",
+        "developer": [
+            {
+                "type": "ddg",
+                "name": "DDG Team",
+                "url": "http://www.duckduckhack.com"
+            }
+        ],
+        "producer": null,
+        "js_callback_name": "wikipedia",
+        "src_options": {
+            "language": "en",
+            "is_fanon": 0,
+            "is_wikipedia": 1,
+            "min_abstract_length": "20",
+            "skip_qr": "",
+            "directory": "",
+            "skip_image_name": 0,
+            "src_info": "",
+            "skip_icon": 0,
+            "skip_end": "0",
+            "source_skip": "",
+            "skip_abstract_paren": 0,
+            "skip_abstract": 0,
+            "is_mediawiki": 1
+        },
+        "example_query": "nikola tesla",
+        "tab": "About",
+        "src_name": "Wikipedia",
+        "production_state": "online",
+        "perl_module": "DDG::Fathead::Wikipedia",
+        "description": "Wikipedia",
+        "created_date": null,
+        "dev_milestone": "live",
+        "live_date": null,
+        "topic": [
+            "productivity"
+        ]
+    },
+    "Answer": "",
+    "ImageIsLogo": 0,
+    "DefinitionURL": ""
+}

@@ -1,0 +1,83 @@
+{
+  "uid" : "166cf311f4bc862c",
+  "name" : "test_ddg_api_result_type[Poetry by William Shakespeare-C]",
+  "title" : "Test ddg api result type [Poetry by William Shakespeare-C]",
+  "time" : {
+    "start" : 1481714208092,
+    "stop" : 1481714208428,
+    "duration" : 336
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "a8a6a35d74d2d041",
+    "name" : "test_ddg_api_result_types",
+    "title" : "Test ddg api result types"
+  },
+  "steps" : [ {
+    "name" : "send request",
+    "title" : "send request",
+    "time" : {
+      "start" : 1481714208093,
+      "stop" : 1481714208427,
+      "duration" : 334
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'Type' in the response is 'C'",
+    "title" : "'Type' in the response is 'C'",
+    "time" : {
+      "start" : 1481714208427,
+      "stop" : 1481714208427,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "a6be8cad-7944-45a3-8201-eef19747dcaf-attachment.txt",
+    "type" : "text/plain",
+    "size" : 289,
+    "uid" : "47e773f7a0c554c6"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - result types"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_result_types"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

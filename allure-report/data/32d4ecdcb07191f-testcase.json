@@ -1,0 +1,83 @@
+{
+  "uid" : "32d4ecdcb07191f",
+  "name" : "test_ddg_api_result_type[!so python3-E]",
+  "title" : "Test ddg api result type [!so python3-E]",
+  "time" : {
+    "start" : 1481714207455,
+    "stop" : 1481714207765,
+    "duration" : 310
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "a8a6a35d74d2d041",
+    "name" : "test_ddg_api_result_types",
+    "title" : "Test ddg api result types"
+  },
+  "steps" : [ {
+    "name" : "send request",
+    "title" : "send request",
+    "time" : {
+      "start" : 1481714207456,
+      "stop" : 1481714207765,
+      "duration" : 309
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'Type' in the response is 'E'",
+    "title" : "'Type' in the response is 'E'",
+    "time" : {
+      "start" : 1481714207765,
+      "stop" : 1481714207765,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "a2b6a158-64d3-4449-9d2f-81531230006d-attachment.txt",
+    "type" : "text/plain",
+    "size" : 273,
+    "uid" : "5789b4e2a51e853"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - result types"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_result_types"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}
