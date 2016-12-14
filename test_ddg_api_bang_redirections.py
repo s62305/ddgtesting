@@ -10,6 +10,9 @@ Redirect: !bang redirect URL
 More at https://api.duckduckgo.com/api
 '''
 
+
+@pytest.allure.feature("API - bang queries")
+@pytest.allure.story("real bang name")
 @pytest.mark.parametrize(
     "bang_name",
     ("m", "g", "ya", "imdb", "so", "a")
@@ -31,7 +34,8 @@ def test_ddg_api_bang_positive(
         logger.debug("Will be redirected to: {!r}".format(data['Redirect']))        
         assert data['Redirect']
 
-
+@pytest.allure.feature("API - bang queries")
+@pytest.allure.story("invalid bang name")
 @pytest.mark.parametrize(
     "bang_name",
     ("yaya", "iddqd", "gibberish", "foobar", "woof")

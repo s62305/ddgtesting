@@ -19,7 +19,7 @@ def get_answer(ans_type, parsed_json):
 
     return ans
 
-
+@pytest.allure.feature("API - instant answers")
 @pytest.mark.parametrize(
     "expected_ans_type, query, expected_value", 
     (
