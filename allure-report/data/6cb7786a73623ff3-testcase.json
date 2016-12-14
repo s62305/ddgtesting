@@ -1,0 +1,98 @@
+{
+  "uid" : "6cb7786a73623ff3",
+  "name" : "test_instant_answer[calc-4.5-0.8]",
+  "title" : "Test instant answer [calc-4.5-0.8]",
+  "time" : {
+    "start" : 1481714200150,
+    "stop" : 1481714200441,
+    "duration" : 291
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "4f82395b7c09eb02",
+    "name" : "test_ddg_api_instant_answers",
+    "title" : "Test ddg api instant answers"
+  },
+  "steps" : [ {
+    "name" : "send request: '4/5'",
+    "title" : "send request: '4/5'",
+    "time" : {
+      "start" : 1481714200151,
+      "stop" : 1481714200441,
+      "duration" : 290
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'AnswerType' in the response is 'calc'",
+    "title" : "'AnswerType' in the response is 'calc'",
+    "time" : {
+      "start" : 1481714200441,
+      "stop" : 1481714200441,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'Answer' in the response is '0.8'",
+    "title" : "'Answer' in the response is '0.8'",
+    "time" : {
+      "start" : 1481714200441,
+      "stop" : 1481714200441,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "6f137825-039d-4eb5-a8f0-27063382fc0b-attachment.txt",
+    "type" : "text/plain",
+    "size" : 435,
+    "uid" : "ed947253c7f5d1e7"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - instant answers"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_instant_answers"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

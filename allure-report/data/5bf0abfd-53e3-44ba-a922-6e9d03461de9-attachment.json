@@ -1,0 +1,164 @@
+{
+    "Definition": "",
+    "AnswerType": "",
+    "Heading": "DreamWorks",
+    "Infobox": "",
+    "AbstractText": "",
+    "AbstractURL": "https://en.wikipedia.org/wiki/DreamWorks_(disambiguation)",
+    "Image": "",
+    "Abstract": "",
+    "Results": [],
+    "Entity": "",
+    "AbstractSource": "Wikipedia",
+    "RelatedTopics": [
+        {
+            "Result": "<a href=\"https://duckduckgo.com/DreamWorks\">DreamWorks</a>An American film production label of Amblin Partners.",
+            "Text": "DreamWorks An American film production label of Amblin Partners.",
+            "Icon": {
+                "URL": "https://duckduckgo.com/i/53532ead.png",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/DreamWorks"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/DreamWorks_Animation\">DreamWorks Animation</a>An American animation studio based in Glendale, California that creates animated feature films...",
+            "Text": "DreamWorks Animation An American animation studio based in Glendale, California that creates animated feature films...",
+            "Icon": {
+                "URL": "https://duckduckgo.com/i/08d91f9d.png",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/DreamWorks_Animation"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/DreamWorks_Classics\">DreamWorks Classics</a>An American animation studio, production and brand licensing company owned by DreamWorks...",
+            "Text": "DreamWorks Classics An American animation studio, production and brand licensing company owned by DreamWorks...",
+            "Icon": {
+                "URL": "https://duckduckgo.com/i/3a5268fd.png",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/DreamWorks_Classics"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/DreamWorks_Television\">DreamWorks Television</a>A television distribution and production company that was a division of DreamWorks.",
+            "Text": "DreamWorks Television A television distribution and production company that was a division of DreamWorks.",
+            "Icon": {
+                "URL": "https://duckduckgo.com/i/5df84bb9.png",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/DreamWorks_Television"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/dreamWorks_Experience\">DreamWorks Experience</a>A themed land at the Dreamworld theme park on the Gold Coast, Queensland, Australia.",
+            "Text": "DreamWorks Experience A themed land at the Dreamworld theme park on the Gold Coast, Queensland, Australia.",
+            "Icon": {
+                "URL": "https://duckduckgo.com/i/9285a334.png",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/dreamWorks_Experience"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/Danger_Close_Games\">DreamWorks Interactive</a>An American video game developer and a division of EA DICE. The company was founded in 1995 as...",
+            "Text": "DreamWorks Interactive An American video game developer and a division of EA DICE. The company was founded in 1995 as...",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/Danger_Close_Games"
+        },
+        {
+            "Result": "<a href=\"https://duckduckgo.com/DreamWorks_Records\">DreamWorks Records</a>An American record label.",
+            "Text": "DreamWorks Records An American record label.",
+            "Icon": {
+                "URL": "",
+                "Width": "",
+                "Height": ""
+            },
+            "FirstURL": "https://duckduckgo.com/DreamWorks_Records"
+        },
+        {
+            "Name": "See also",
+            "Topics": [
+                {
+                    "Result": "<a href=\"https://duckduckgo.com/Dreamwork\">Dreamwork</a>Dreamwork differs from classical dream interpretation in that the aim is to explore the various...",
+                    "Text": "Dreamwork Dreamwork differs from classical dream interpretation in that the aim is to explore the various...",
+                    "Icon": {
+                        "URL": "",
+                        "Width": "",
+                        "Height": ""
+                    },
+                    "FirstURL": "https://duckduckgo.com/Dreamwork"
+                }
+            ]
+        }
+    ],
+    "DefinitionSource": "",
+    "Redirect": "",
+    "ImageHeight": 0,
+    "ImageWidth": 0,
+    "Type": "D",
+    "meta": {
+        "blockgroup": null,
+        "src_id": 1,
+        "unsafe": 0,
+        "attribution": null,
+        "signal_from": "wikipedia_fathead",
+        "src_domain": "en.wikipedia.org",
+        "repo": "fathead",
+        "name": "Wikipedia",
+        "maintainer": {
+            "github": "duckduckgo"
+        },
+        "dev_date": null,
+        "src_url": null,
+        "status": "live",
+        "designer": null,
+        "is_stackexchange": null,
+        "id": "wikipedia_fathead",
+        "developer": [
+            {
+                "type": "ddg",
+                "name": "DDG Team",
+                "url": "http://www.duckduckhack.com"
+            }
+        ],
+        "producer": null,
+        "js_callback_name": "wikipedia",
+        "src_options": {
+            "language": "en",
+            "is_fanon": 0,
+            "is_wikipedia": 1,
+            "min_abstract_length": "20",
+            "skip_qr": "",
+            "directory": "",
+            "skip_image_name": 0,
+            "src_info": "",
+            "skip_icon": 0,
+            "skip_end": "0",
+            "source_skip": "",
+            "skip_abstract_paren": 0,
+            "skip_abstract": 0,
+            "is_mediawiki": 1
+        },
+        "example_query": "nikola tesla",
+        "tab": "About",
+        "src_name": "Wikipedia",
+        "production_state": "online",
+        "perl_module": "DDG::Fathead::Wikipedia",
+        "description": "Wikipedia",
+        "created_date": null,
+        "dev_milestone": "live",
+        "live_date": null,
+        "topic": [
+            "productivity"
+        ]
+    },
+    "Answer": "",
+    "ImageIsLogo": 0,
+    "DefinitionURL": ""
+}

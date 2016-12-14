@@ -1,0 +1,83 @@
+{
+  "uid" : "de2ca048daa2bfd4",
+  "name" : "test_ddg_api_regional_search[!wt car-cookies1-en]",
+  "title" : "Test ddg api regional search [!wt car-cookies1-en]",
+  "time" : {
+    "start" : 1481714206521,
+    "stop" : 1481714206841,
+    "duration" : 320
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "c4c382531b817c42",
+    "name" : "test_ddg_api_regional_search",
+    "title" : "Test ddg api regional search"
+  },
+  "steps" : [ {
+    "name" : "send request with q='!wt car' and cookies={} ",
+    "title" : "send request with q='!wt car' and cookies={} ",
+    "time" : {
+      "start" : 1481714206524,
+      "stop" : 1481714206841,
+      "duration" : 317
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'Redirect' contains url for regional segment of the site: 'en'",
+    "title" : "'Redirect' contains url for regional segment of the site: 'en'",
+    "time" : {
+      "start" : 1481714206841,
+      "stop" : 1481714206841,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "930865b9-e89a-452c-92b9-7a18d90a2d77-attachment.txt",
+    "type" : "text/plain",
+    "size" : 297,
+    "uid" : "baf4e23dd643c636"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - regional search"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_regional_search"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,113 @@
+{
+  "uid" : "d45c294ad77f12a",
+  "name" : "test_ddg_api_case_insensitive_query[Moscow]",
+  "title" : "Test ddg api case insensitive query [Moscow]",
+  "time" : {
+    "start" : 1481714205193,
+    "stop" : 1481714205655,
+    "duration" : 462
+  },
+  "summary" : {
+    "attachments" : 3,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "44db998d8b29353",
+    "name" : "test_ddg_api_query_case_sensitivity",
+    "title" : "Test ddg api query case sensitivity"
+  },
+  "steps" : [ {
+    "name" : "Send request: q='Moscow'",
+    "title" : "Send request: q='Moscow'",
+    "time" : {
+      "start" : 1481714205194,
+      "stop" : 1481714205535,
+      "duration" : 341
+    },
+    "summary" : {
+      "attachments" : 1,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ {
+      "title" : "original_response.json",
+      "source" : "de7827a7-21bd-48d8-9094-4138ee84d8ec-attachment.json",
+      "type" : "application/json",
+      "size" : 25863,
+      "uid" : "2e9f481081034686"
+    } ],
+    "steps" : [ ]
+  }, {
+    "name" : "Send request: q='moscow'",
+    "title" : "Send request: q='moscow'",
+    "time" : {
+      "start" : 1481714205535,
+      "stop" : 1481714205655,
+      "duration" : 120
+    },
+    "summary" : {
+      "attachments" : 1,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ {
+      "title" : "lower_case_response.json",
+      "source" : "92eec119-0aeb-4cd2-8bc1-15f64e8b5e5c-attachment.json",
+      "type" : "application/json",
+      "size" : 25863,
+      "uid" : "8b8fde980b72191b"
+    } ],
+    "steps" : [ ]
+  }, {
+    "name" : "Two responses are the same",
+    "title" : "Two responses are the same",
+    "time" : {
+      "start" : 1481714205655,
+      "stop" : 1481714205655,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "8d29f879-29dd-4784-8082-808294e7b9e4-attachment.txt",
+    "type" : "text/plain",
+    "size" : 316,
+    "uid" : "9ec13c44cc2fdbd"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - query case sensitivity"
+  }, {
+    "name" : "story",
+    "value" : "case insensitive query"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_query_case_sensitivity"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

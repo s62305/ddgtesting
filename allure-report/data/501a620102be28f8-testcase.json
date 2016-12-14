@@ -1,0 +1,98 @@
+{
+  "uid" : "501a620102be28f8",
+  "name" : "test_instant_answer[zodiac-zodiac 21st June-Gemini]",
+  "title" : "Test instant answer [zodiac-zodiac 21st June-Gemini]",
+  "time" : {
+    "start" : 1481714202012,
+    "stop" : 1481714202341,
+    "duration" : 329
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "4f82395b7c09eb02",
+    "name" : "test_ddg_api_instant_answers",
+    "title" : "Test ddg api instant answers"
+  },
+  "steps" : [ {
+    "name" : "send request: 'zodiac 21st June'",
+    "title" : "send request: 'zodiac 21st June'",
+    "time" : {
+      "start" : 1481714202013,
+      "stop" : 1481714202340,
+      "duration" : 327
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'AnswerType' in the response is 'zodiac'",
+    "title" : "'AnswerType' in the response is 'zodiac'",
+    "time" : {
+      "start" : 1481714202340,
+      "stop" : 1481714202341,
+      "duration" : 1
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "'Answer' in the response is 'Gemini'",
+    "title" : "'Answer' in the response is 'Gemini'",
+    "time" : {
+      "start" : 1481714202341,
+      "stop" : 1481714202341,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "a6273b1d-68da-4903-8c83-203cdb2548ee-attachment.txt",
+    "type" : "text/plain",
+    "size" : 368,
+    "uid" : "7155715a2365a104"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - instant answers"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_instant_answers"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

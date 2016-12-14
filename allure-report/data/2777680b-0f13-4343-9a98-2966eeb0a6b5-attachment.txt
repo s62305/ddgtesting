@@ -1,0 +1,3 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=%21a+query HTTP/1.1" 200 None
+DEBUG:root:Will be redirected to: 'https://www.amazon.com/s/?tag=duc0c-20&url=search-alias%3Daps&field-keywords=query'

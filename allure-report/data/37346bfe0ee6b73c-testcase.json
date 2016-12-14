@@ -1,0 +1,113 @@
+{
+  "uid" : "37346bfe0ee6b73c",
+  "name" : "test_ddg_api_case_insensitive_query[Copacabana]",
+  "title" : "Test ddg api case insensitive query [Copacabana]",
+  "time" : {
+    "start" : 1481714204761,
+    "stop" : 1481714205191,
+    "duration" : 430
+  },
+  "summary" : {
+    "attachments" : 3,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "44db998d8b29353",
+    "name" : "test_ddg_api_query_case_sensitivity",
+    "title" : "Test ddg api query case sensitivity"
+  },
+  "steps" : [ {
+    "name" : "Send request: q='Copacabana'",
+    "title" : "Send request: q='Copacabana'",
+    "time" : {
+      "start" : 1481714204762,
+      "stop" : 1481714205090,
+      "duration" : 328
+    },
+    "summary" : {
+      "attachments" : 1,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ {
+      "title" : "original_response.json",
+      "source" : "65218cd8-f84c-4ed3-bda8-aab23f075609-attachment.json",
+      "type" : "application/json",
+      "size" : 12859,
+      "uid" : "6d194671bca7ca92"
+    } ],
+    "steps" : [ ]
+  }, {
+    "name" : "Send request: q='copacabana'",
+    "title" : "Send request: q='copacabana'",
+    "time" : {
+      "start" : 1481714205090,
+      "stop" : 1481714205191,
+      "duration" : 101
+    },
+    "summary" : {
+      "attachments" : 1,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ {
+      "title" : "lower_case_response.json",
+      "source" : "fca59fc1-5215-4b81-b2c5-fcd338262652-attachment.json",
+      "type" : "application/json",
+      "size" : 12859,
+      "uid" : "bfdf9c4e0a235eee"
+    } ],
+    "steps" : [ ]
+  }, {
+    "name" : "Two responses are the same",
+    "title" : "Two responses are the same",
+    "time" : {
+      "start" : 1481714205191,
+      "stop" : 1481714205191,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Captured stderr call",
+    "source" : "f9d1ab14-5fd0-459c-a168-7ebff6ec3928-attachment.txt",
+    "type" : "text/plain",
+    "size" : 324,
+    "uid" : "91112360d39f8b6d"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "API - query case sensitivity"
+  }, {
+    "name" : "story",
+    "value" : "case insensitive query"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21711-MainThread"
+  }, {
+    "name" : "host",
+    "value" : "wks-litus"
+  }, {
+    "name" : "suite-name",
+    "value" : "test_ddg_api_query_case_sensitivity"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

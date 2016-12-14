@@ -1,0 +1,6 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=9%2A4 HTTP/1.1" 200 None
+DEBUG:root:Expected AnswerType: 'calc'
+DEBUG:root:Actual AnswerType: 'calc'
+DEBUG:root:Raw answer: '<a href=\'javascript:;\' onclick=\'document.x.q.value="36";document.x.q.focus();\'>36</a>'
+DEBUG:root:Processed answer: '36'
