@@ -1,6 +1,0 @@
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
-DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=currency+in+US HTTP/1.1" 200 None
-DEBUG:root:Expected AnswerType: 'currency_in'
-DEBUG:root:Actual AnswerType: 'currency_in'
-DEBUG:root:Raw answer: 'United States Dollar (USD)'
-DEBUG:root:Processed answer: 'United States Dollar (USD)'

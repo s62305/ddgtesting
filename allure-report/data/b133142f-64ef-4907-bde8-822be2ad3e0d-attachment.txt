@@ -1,6 +1,0 @@
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
-DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=10%3A00+MSK+to+CET HTTP/1.1" 200 None
-DEBUG:root:Expected AnswerType: 'timezone_converter'
-DEBUG:root:Actual AnswerType: 'timezone_converter'
-DEBUG:root:Raw answer: '8:00 CET'
-DEBUG:root:Processed answer: '8:00 CET'
