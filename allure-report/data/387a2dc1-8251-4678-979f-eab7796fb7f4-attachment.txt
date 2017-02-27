@@ -1,6 +1,0 @@
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
-DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=zodiac+29st+August HTTP/1.1" 200 None
-DEBUG:root:Expected AnswerType: 'zodiac'
-DEBUG:root:Actual AnswerType: 'zodiac'
-DEBUG:root:Raw answer: 'Virgo'
-DEBUG:root:Processed answer: 'Virgo'

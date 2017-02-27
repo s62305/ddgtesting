@@ -1,4 +1,0 @@
-DEBUG:root:With cookies: {}
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.duckduckgo.com
-DEBUG:requests.packages.urllib3.connectionpool:"GET /?format=json&no_redirect=1&q=%21wt+car HTTP/1.1" 200 None
-DEBUG:root:Redirect: 'https://en.wiktionary.org/wiki/car'
