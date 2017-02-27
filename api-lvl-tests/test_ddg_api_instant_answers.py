@@ -8,8 +8,6 @@ Using that platform, you can add your own APIs and data sources as well.
 More at https://api.duckduckgo.com/api
 """
 
-import xml.etree.ElementTree as ET
-
 import pytest
 
 
@@ -17,7 +15,7 @@ def get_answer(ans_type, parsed_json):
 
     ans = parsed_json['Answer']
     if(ans_type == "calc"):
-        ans = ET.fromstring(ans).text.strip()
+        ans = ans.split('=')[-1].strip()
 
     return ans
 
